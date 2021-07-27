@@ -1,2 +1,2 @@
 # Loan-prediction-using-machine-learning-
-With the enhancement in the banking sector lots of people are applying for bank loans but the bank has its limited assets which it has to grant to limited people only, so finding out to whom the loan can be  granted which will be a safer option for the bank is a typical process. So in this paper we try to reduce this risk  factor behind selecting the safe person so as to save lots of bank efforts and assets.
+With the enhancement in the banking sector lots of people are applying for bank loans but the bank has its limited assets which it has to grant to limited people only, so finding out to whom the loan can be  granted which will be a safer option for the bank is a typical process.
